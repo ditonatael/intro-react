@@ -11,16 +11,16 @@ export default function Skills(){
                 </span>
                 <span className="grid grid-cols-2 gap-3 h-[300px] pr-10">
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center ">
-                    <img className="object-contain" src="src/assets/5968705.png"/>
+                    <img className="object-contain" src={"/732244.png"}/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center">
-                <img className="object-contain" src="src/assets/732244.png"/>
+                <img className="object-contain" src="/"/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center"> 
-                <img className="object-contain" src="src/assets/5210800.png"/>
+                <img className="object-contain" src="/"/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center">
-                <img className="object-contain" src="src/assets/5968559.png"/>
+                <img className="object-contain" src="/"/>
                 </span>
                 </span>
             </div>
