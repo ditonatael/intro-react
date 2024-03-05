@@ -22,7 +22,7 @@ export default function HomePage(){
        </button>
         </div>
        <span>
-        <img src="src/assets/t-shirt-guy-fawkes-mask-v-anonymous-v-for-vendetta-png-file-7101559928e6e9f5878ee5fa1f4a851e.png"/>
+        <img src="/public/t-shirt-guy-fawkes-mask-v-anonymous-v-for-vendetta-png-file-7101559928e6e9f5878ee5fa1f4a851e.png"/>
        </span>
         </div>
         <ExperiencePage />
