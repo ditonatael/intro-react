@@ -14,13 +14,13 @@ export default function Skills(){
                     <img className="object-contain" src={"/732244.png"}/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center">
-                <img className="object-contain" src="/"/>
+                <img className="object-contain" src={"/public/5210800.png"}/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center"> 
-                <img className="object-contain" src="/"/>
+                <img className="object-contain" src={"/public/5968559.png"}/>
                 </span>
                 <span className="bg-neutral-800 w-[200px] flex justify-center items-center">
-                <img className="object-contain" src="/"/>
+                <img className="object-contain" src={"/public/5968705.png"}/>
                 </span>
                 </span>
             </div>
