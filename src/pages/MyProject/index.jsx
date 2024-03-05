@@ -21,22 +21,22 @@ export default function ProjectPage(){
         </div>          
         <div className="grid grid-cols-3 gap-3 pt-11">
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-1_150.png"/>
+                    <img src={"/color-logo-1_150.png"}/>
                 </div>
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-2_150.png"/>
+                    <img src={"/color-logo-2_150.png"}/>
                 </div>
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-3_150.png"/>
+                    <img src={"/color-logo-3_150.png"}/>
                 </div>
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-4_150.png"/>
+                    <img src={"/color-logo-4_150.png"}/>
                 </div>
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-5_150.png"/>
+                    <img src={"/color-logo-5_150.png"}/>
                 </div>
                 <div className="bg-zinc-100 h-[200px] w-[400px] flex justify-center items-center">
-                    <img src="src/assets/color-logo-6_150.png"/>
+                    <img src={"/color-logo-6_150.png"}/>
                 </div>
         </div>
         <div className="grid grid-cols-3 gap-12 pt-40 pb-20">
@@ -44,42 +44,42 @@ export default function ProjectPage(){
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-2438212.jpeg"
+                src={"/pexels-photo-2438212.jpeg"}
                 />
             </span>
              <span className="bg-white h-[400px] w-[400px] cursor-pointer
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-3137073.jpeg"
+                src={"/pexels-photo-3137073.jpeg"}
                 />
             </span>
              <span className="bg-white h-[400px] w-[400px] cursor-pointer
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-3261141.jpeg"
+                src={"/pexels-photo-3261141.jpeg"}
                 />
             </span>
              <span className="bg-white h-[400px] w-[400px] cursor-pointer
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-3802239.jpeg"
+                src={"/pexels-photo-3802239.jpeg"}
                 />
             </span>
              <span className="bg-white h-[400px] w-[400px] cursor-pointer
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-4107897.jpeg"
+                src={"/pexels-photo-4107897.jpeg"}
                 />
             </span>
              <span className="bg-white h-[400px] w-[400px] cursor-pointer
             overflow-hidden inline-block">
                 <img className="h-full w-full object-cover
                 duration-500 hover:scale-110 transition-transform" 
-                src="src/assets/pexels-photo-7766563.jpeg"
+                src={"/pexels-photo-7766563.jpeg"}
                 />
             </span>
         </div>
